@@ -1,1 +1,1 @@
-insert into usuarios (name) values ('Stefano'), ('João'), ('Maria');
+insert into usuarios (nome) values ('Stefano'), ('João'), ('Maria');
