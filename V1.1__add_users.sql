@@ -1,0 +1,1 @@
+insert into usuarios (nome) values ('Stefano'), ('Maria'), ('João');
